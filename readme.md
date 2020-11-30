@@ -1,0 +1,1 @@
+This repo. is created during my self-study on MySQL.
